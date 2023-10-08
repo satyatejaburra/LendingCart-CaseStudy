@@ -81,9 +81,6 @@ To develop your understanding of the domain, you are advised to independently re
                   This might be because people living in rent do not have much to lose. Others have their Home lost as part of recovery process
 * verification_status: People whose incomes have been verified are very less prone to default. As their incomes are verified that means the values                          they quoted are correct and decision we have taken based on their income levels will be accurate.
 * Purpose: People who takes loan for the purpose of debt consolidation are more prone to default. People who have more accounts opened are taking more loans/accounts to close other loans. In below figure we can observe the same.
-
-![Screenshot 2023-10-08 at 9.47.15 AM.png](attachment:d5f9d88b-2301-497c-ba55-6b1bea131881.png)
-
 * pub_rec: People with 0 public records are prone to higher number of defaulters.
 * annual_income: People with annual income in range 27k-51k are prone to high default. From the derived metrics analysis of Monthly income to the installments we can observe - in this income group high percentage of the monthly income is going in installments which might be the reson for the high defaulters.
 * revol_util: People with 40-60 % of revol_util are higher prone to Default
